@@ -8,7 +8,7 @@ const baseLinks = {
     up7: "https://pay.impor-hj.fun/DPXw3XeE9E9Zzmp", // Parabéns, 20k adicional
     up8: "https://pay.impor-hj.fun/mwK436d1zqXGQ8b", // Erro no pagamento - 14,06
     up9: "https://pay.impor-hj.fun/meABG9dn7DAZ6Ea", // APP - 11,99
-    up10:"https://pay.impor-hj.fun/NDr8gmKnadpZBmj", // Taxa de Abertura TAC - 16,92
+    up10:"https://checkout.venhaserwill.store/VCCL1O8SC9WL", // Taxa de Abertura TAC - 16,92
     up11:"https://pay.impor-hj.fun/DPXw3XeE919Zzmp",// Taxa de Consultoria Financeira - 19,53
     up12:"https://pay.impor-hj.fun/DYp0ZxVMAzlgmvX" // Taxa de Processamento Administrativo - 31,92
 

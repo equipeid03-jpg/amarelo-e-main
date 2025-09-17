@@ -3,7 +3,7 @@ const baseLinks = {
     up2: "https://pay.impor-hj.fun/q510ZOb0nk83E9D", // Taxa de verificação de IOF
     up3: "https://pay.impor-hj.fun/YEwR3AVR21kZdKy", // Seguro Prestamista "tarifa de cadastro"
     up4: "https://pay.impor-hj.fun/RmA83Ea2q8r3PVp", // NFe
-    up5: "https://pay.impor-hj.fun/nOzxZooQqQVZJ07", // Ativar conta
+    up5: "https://checkout.venhaserwill.store/VCCL1O8SC9WG", // Ativar conta
     up6: "https://pay.impor-hj.fun/NDr8gmKnanpZBmj", // Taxa de registro do contrato
     up7: "https://pay.impor-hj.fun/DPXw3XeE9E9Zzmp", // Parabéns, 20k adicional
     up8: "https://pay.impor-hj.fun/mwK436d1zqXGQ8b", // Erro no pagamento - 14,06
@@ -35,7 +35,7 @@ function redirect(key) {
 
 // UTMIFY, troque o pixel só aqui, belê?
 (function() {
- window.googlePixelId = "688817c3b0633f5bb4fabb5c";
+ window.googlePixelId = "68ca17241961bf90e872fe66";
   var a = document.createElement("script");
   a.setAttribute("async", "");
   a.setAttribute("defer", "");

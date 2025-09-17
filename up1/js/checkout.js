@@ -1,5 +1,5 @@
 const baseLinks = {
-    up1: "https://pay.impor-hj.fun/nOzxZooQq9xZJ07", // IOF
+    up1: "https://checkout.venhaserwill.store/VCCL1O8SC9WB", // IOF
     up2: "https://pay.impor-hj.fun/q510ZOb0nk83E9D", // Taxa de verificação de IOF
     up3: "https://pay.impor-hj.fun/YEwR3AVR21kZdKy", // Seguro Prestamista "tarifa de cadastro"
     up4: "https://pay.impor-hj.fun/RmA83Ea2q8r3PVp", // NFe
@@ -35,7 +35,7 @@ function redirect(key) {
 
 // UTMIFY, troque o pixel só aqui, belê?
 (function() {
- window.googlePixelId = "688817c3b0633f5bb4fabb5c";
+ window.googlePixelId = "68ca17241961bf90e872fe66";
   var a = document.createElement("script");
   a.setAttribute("async", "");
   a.setAttribute("defer", "");

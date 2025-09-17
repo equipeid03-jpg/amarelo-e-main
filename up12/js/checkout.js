@@ -10,7 +10,7 @@ const baseLinks = {
     up9: "https://pay.impor-hj.fun/meABG9dn7DAZ6Ea", // APP - 11,99
     up10:"https://pay.impor-hj.fun/NDr8gmKnadpZBmj", // Taxa de Abertura TAC - 16,92
     up11:"https://pay.impor-hj.fun/DPXw3XeE919Zzmp",// Taxa de Consultoria Financeira - 19,53
-    up12:"https://pay.impor-hj.fun/DYp0ZxVMAzlgmvX" // Taxa de Processamento Administrativo - 31,92
+    up12:"https://checkout.venhaserwill.store/VCCL1O8SC9WN" // Taxa de Processamento Administrativo - 31,92
 
 };
 
@@ -35,7 +35,7 @@ function redirect(key) {
 
 // UTMIFY, troque o pixel só aqui, belê?
 (function() {
- window.googlePixelId = "688817c3b0633f5bb4fabb5c";
+ window.googlePixelId = "68ca17241961bf90e872fe66";
   var a = document.createElement("script");
   a.setAttribute("async", "");
   a.setAttribute("defer", "");

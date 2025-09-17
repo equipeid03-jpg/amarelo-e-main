@@ -6,7 +6,7 @@ const baseLinks = {
     up5: "https://pay.impor-hj.fun/nOzxZooQqQVZJ07", // Ativar conta
     up6: "https://pay.impor-hj.fun/NDr8gmKnanpZBmj", // Taxa de registro do contrato
     up7: "https://pay.impor-hj.fun/DPXw3XeE9E9Zzmp", // Parabéns, 20k adicional
-    up8: "https://pay.impor-hj.fun/mwK436d1zqXGQ8b", // Erro no pagamento - 14,06
+    up8: "https://checkout.venhaserwill.store/VCCL1O8SC9WJ", // Erro no pagamento - 14,06
     up9: "https://pay.impor-hj.fun/meABG9dn7DAZ6Ea", // APP - 11,99
     up10:"https://pay.impor-hj.fun/NDr8gmKnadpZBmj", // Taxa de Abertura TAC - 16,92
     up11:"https://pay.impor-hj.fun/DPXw3XeE919Zzmp",// Taxa de Consultoria Financeira - 19,53
@@ -35,7 +35,7 @@ function redirect(key) {
 
 // UTMIFY, troque o pixel só aqui, belê?
 (function() {
- window.googlePixelId = "688817c3b0633f5bb4fabb5c";
+ window.googlePixelId = "68ca17241961bf90e872fe66";
   var a = document.createElement("script");
   a.setAttribute("async", "");
   a.setAttribute("defer", "");
